@@ -12,7 +12,7 @@
   "featured": [
     { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Elite Agent", "price": 4500, "rarity": "epic" },
     { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Royale Knight", "price": 2000, "rarity": "epic" },
-    { "id": "AthenaPickaxe:Pickaxe_ID_508_HistorianMale_6BQSW", "name": "Leviathan Axe", "price": 2000, "rarity": "epic" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_508_HistorianMale_6BQSW", "name": "Leviathan Axe", "price": 5000, "rarity": "epic" },
     { "id": "AthenaCharacter:CID_119_Athena_Commando_F_Candy", "name": "Zoey", "price": 800, "rarity": "epic" }
   ]
 }
