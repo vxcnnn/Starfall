@@ -1,16 +1,16 @@
 {
   "daily": [
-    {"id": "cid_349_athena_commando_m_banana", "name": "Mask Off", "price": 500, "rarity": "rare"},
-    {"id": "cid_349_athena_commando_m_banana", "name": "Mine", "price": 500, "rarity": "epic"},
-    {"id": "cid_349_athena_commando_m_banana", "name": "Star Wand", "price": 800, "rarity": "legendary"},
-    {"id": "cid_349_athena_commando_m_banana", "name": "Crowbar", "price": 500, "rarity": "legendary"},
-    {"id": "cid_349_athena_commando_m_banana", "name": "Chun-Li", "price": 500, "rarity": "legendary"}
+    {"id": "nah", "name": "Mask Off", "price": 500, "rarity": "rare"},
+    {"id": "nah", "name": "Mine", "price": 500, "rarity": "epic"},
+    {"id": "nah", "name": "Star Wand", "price": 800, "rarity": "legendary"},
+    {"id": "nah", "name": "Crowbar", "price": 500, "rarity": "legendary"},
+    {"id": "nah", "name": "Chun-Li", "price": 500, "rarity": "legendary"}
   ],
   "featured": [
-    {"id": "cid_349_athena_commando_m_banana", "name": "Chani", "price": 1000, "rarity": "legendary"},
-    {"id": "cid_349_athena_commando_m_banana", "name": "Lara Croft", "price": 1000, "rarity": "epic"},
-    {"id": "cid_349_athena_commando_m_banana", "name": "Victoria Saint", "price": 800, "rarity": "epic"},
-    {"id": "cid_349_athena_commando_m_banana", "name": "Serenade", "price": 800, "rarity": "epic"},
-    {"id": "EID_Kelplinen", "name": "Lucid Dreams", "price": 500, "rarity": "epic"}
+    {"id": "nah", "name": "Chani", "price": 1000, "rarity": "legendary"},
+    {"id": "nah", "name": "Lara Croft", "price": 1000, "rarity": "epic"},
+    {"id": "nah", "name": "Victoria Saint", "price": 800, "rarity": "epic"},
+    {"id": "nah", "name": "Serenade", "price": 800, "rarity": "epic"},
+    {"id": "nah", "name": "Leviathan Axe", "price": 2500, "rarity": "epic"}
   ]
 }
