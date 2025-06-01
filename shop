@@ -1,6 +1,6 @@
 {
   "daily": [
-    { "id": "AthenaCharacter:CID_913_Athena_Commando_F_York_D", "name": "Aura Analyzer", "price": 2000, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_913_Athena_Commando_F_York_D", "name": "Curse Buster", "price": 2000, "rarity": "rare" },
     { "id": "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone", "name": "Travis Scott", "price": 10000, "rarity": "epic" },
     { "id": "AthenaCharacter:CHaracter_MirageHike", "name": "Serenade", "price": 2000, "rarity": "rare" },
     { "id": "AthenaPickaxe:Pickaxe_ID_376_FNCS", "name": "The Axe of Champions", "price": 50000, "rarity": "legendary" },
