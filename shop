@@ -6,7 +6,7 @@
     { "id": "AthenaPickaxe:Pickaxe_ID_376_FNCS", "name": "The Axe of Champions", "price": 50000, "rarity": "legendary" },
     { "id": "AthenaCharacter:CID_976_Athena_Commando_F_Wombat_0GRTQ", "name": "Michonne", "price": 0, "rarity": "legendary" },
     { "id": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo", "name": "Ice Breaker", "price": 0, "rarity": "legendary" },
-    { "id": "AthenaPickaxe:Pickaxe_ID_179_StarWand", "name": "StarWand", "price": 800, "rarity": "legendary" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_179_StarWand", "name": "Star Wand", "price": 800, "rarity": "legendary" },
     { "id": "AthenaPickaxe:Pickaxe_ID_092_Bling", "name": "Crowbar", "price": 300, "rarity": "legendary" }
   ],
   "featured": [
