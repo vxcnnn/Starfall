@@ -1,16 +1,18 @@
 {
   "daily": [
-    {"id": "nah", "name": "Mask Off", "price": 500, "rarity": "rare"},
-    {"id": "nah", "name": "Mine", "price": 500, "rarity": "epic"},
-    {"id": "nah", "name": "Star Wand", "price": 800, "rarity": "legendary"},
-    {"id": "nah", "name": "Crowbar", "price": 500, "rarity": "legendary"},
-    {"id": "nah", "name": "Chun-Li", "price": 500, "rarity": "legendary"}
+    { "id": "AthenaCharacter:CID_913_Athena_Commando_F_York_D", "name": "Aura Analyzer", "price": 2000, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone", "name": "Travis Scott", "price": 10000, "rarity": "epic" },
+    { "id": "AthenaCharacter:CHaracter_MirageHike", "name": "Serenade", "price": 2000, "rarity": "rare" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_376_FNCS", "name": "The Axe of Champions", "price": 50000, "rarity": "legendary" },
+    { "id": "AthenaCharacter:CID_976_Athena_Commando_F_Wombat_0GRTQ", "name": "Michonne", "price": 0, "rarity": "legendary" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo", "name": "Ice Breaker", "price": 0, "rarity": "legendary" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_179_StarWand", "name": "StarWand", "price": 800, "rarity": "legendary" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_092_Bling", "name": "Crowbar", "price": 300, "rarity": "legendary" }
   ],
   "featured": [
-    {"id": "nah", "name": "Chani", "price": 1000, "rarity": "legendary"},
-    {"id": "nah", "name": "Lara Croft", "price": 1000, "rarity": "epic"},
-    {"id": "nah", "name": "Victoria Saint", "price": 800, "rarity": "epic"},
-    {"id": "nah", "name": "Serenade", "price": 800, "rarity": "epic"},
-    {"id": "nah", "name": "Leviathan Axe", "price": 2500, "rarity": "epic"}
+    { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Elite Agent", "price": 4500, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Royale Knight", "price": 2000, "rarity": "epic" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_508_HistorianMale_6BQSW", "name": "Leviathan Axe", "price": 2000, "rarity": "epic" },
+    { "id": "AthenaCharacter:CID_119_Athena_Commando_F_Candy", "name": "Zoey", "price": 800, "rarity": "epic" }
   ]
 }
