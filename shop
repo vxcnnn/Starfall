@@ -1,18 +1,13 @@
 {
   "daily": [
-    { "id": "AthenaCharacter:CID_913_Athena_Commando_F_York_D", "name": "Curse Buster", "price": 2000, "rarity": "rare" },
-    { "id": "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone", "name": "Travis Scott", "price": 10000, "rarity": "epic" },
-    { "id": "AthenaCharacter:CHaracter_MirageHike", "name": "Serenade", "price": 2000, "rarity": "rare" },
-    { "id": "AthenaPickaxe:Pickaxe_ID_376_FNCS", "name": "The Axe of Champions", "price": 50000, "rarity": "legendary" },
-    { "id": "AthenaCharacter:CID_976_Athena_Commando_F_Wombat_0GRTQ", "name": "Michonne", "price": 0, "rarity": "legendary" },
-    { "id": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo", "name": "Ice Breaker", "price": 0, "rarity": "legendary" },
-    { "id": "AthenaPickaxe:Pickaxe_ID_179_StarWand", "name": "Star Wand", "price": 800, "rarity": "legendary" },
-    { "id": "AthenaPickaxe:Pickaxe_ID_092_Bling", "name": "Crowbar", "price": 300, "rarity": "legendary" }
+    { "id": "AthenaCharacter:CID_913_Athena_Commando_F_York_D", "name": "Curse Buster", "price": 0, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone", "name": "Travis Scott", "price": 5000, "rarity": "epic" },
+    { "id": "AthenaCharacter:CHaracter_MirageHike", "name": "Serenade", "price": 0, "rarity": "rare" },
+    { "id": "11", "name": "crowbar", "price": 0, "rarity": "legendary" },
   ],
   "featured": [
     { "id": "AthenaCharacter:CID_083_Athena_Commando_F_Tactical", "name": "Elite Agent", "price": 4500, "rarity": "epic" },
     { "id": "AthenaCharacter:CID_033_Athena_Commando_F_Medieval", "name": "Royale Knight", "price": 2000, "rarity": "epic" },
     { "id": "AthenaPickaxe:Pickaxe_ID_508_HistorianMale_6BQSW", "name": "Leviathan Axe", "price": 5000, "rarity": "epic" },
-    { "id": "AthenaCharacter:CID_119_Athena_Commando_F_Candy", "name": "Zoey", "price": 800, "rarity": "epic" }
   ]
 }
